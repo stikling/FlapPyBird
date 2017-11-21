@@ -2,6 +2,7 @@ FlappyBirdClone
 ===============
 
 A Flappy Bird Clone made using [python-pygame][1]
+This altered version is a researchedition for HCI performance monitoring. 
 
 How-to
 ------
@@ -26,3 +27,10 @@ ScreenShot
 ![alt text](Screenshot.png)
 
 [1]: http://www.pygame.org
+
+Variable inputs
+----------
+These variables, along with the timestamps, can be used to identify the dataset in a between-group, between-subject analysis.
+Participant identifier, SPILLER = "00"
+Input method, MODUS = "Headset"
+Independent variable, GROUP = "P"
