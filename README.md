@@ -23,6 +23,6 @@ How-to
 ScreenShot
 ----------
 
-![Stikling/Flappy Bird](screenshot.png)
+![Flappy Bird](screenshot1.png)
 
 [1]: http://www.pygame.org
